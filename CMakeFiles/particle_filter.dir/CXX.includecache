@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/helper_functions.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/helper_functions.h
 sstream
 -
 fstream
@@ -16,9 +16,9 @@ math.h
 vector
 -
 map.h
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/map.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/map.h
 
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/json.hpp
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/json.hpp
 algorithm
 -
 array
@@ -74,21 +74,21 @@ utility
 vector
 -
 
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/main.cpp
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/main.cpp
 uWS/uWS.h
 -
 iostream
 -
 json.hpp
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/json.hpp
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/json.hpp
 math.h
 -
 particle_filter.h
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/particle_filter.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/particle_filter.h
 
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/map.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/map.h
 
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/particle_filter.cpp
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/particle_filter.cpp
 random
 -
 algorithm
@@ -108,9 +108,9 @@ string
 iterator
 -
 particle_filter.h
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/particle_filter.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/particle_filter.h
 
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/particle_filter.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/particle_filter.h
 helper_functions.h
-/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/src/helper_functions.h
+/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/src/helper_functions.h
 

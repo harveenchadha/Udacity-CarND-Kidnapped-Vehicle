@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master
+# Install script for directory: /mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/CarND-Kidnapped-Vehicle-Project-master/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/d/_final/Term2/Project 8/CarND-Kidnapped-Vehicle-Project-master/Udacity-CarND-Kidnapped-Vehicle/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
